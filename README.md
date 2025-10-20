@@ -59,6 +59,21 @@ A user-friendly design ensures that users can easily navigate the booking system
 - Font Weight: Regular (400), Bold (700)
 - Font Sizes: Headings 24px, Subheadings 18px, Body text 14px
 
+- ------
+
+## Project Roles and Responsibilities
+
+| Role | Responsibilities |
+|------|-----------------|
+| Project Manager | Oversees the project, coordinates between teams, ensures timelines and goals are met |
+| Frontend Developers | Build the user interface using HTML, CSS, and JavaScript, implement responsive design |
+| Backend Developers | Develop server-side logic, manage databases, and ensure smooth data flow |
+| Designers | Create UI/UX designs, mockups, and visual assets for the project |
+| QA/Testers | Test the application for bugs, usability, and performance issues |
+| DevOps Engineers | Handle deployment, server configuration, and continuous integration/continuous delivery (CI/CD) |
+| Product Owner | Defines project requirements, prioritizes features, and ensures product aligns with user needs |
+| Scrum Master | Facilitates Agile ceremonies, removes blockers, and ensures the team follows Agile principles |
+
 
 #### Importance of Identifying Design Properties
 Identifying color styles and typography in a mockup helps maintain consistency in the design, improves user experience, and ensures that the website reflects the intended brand identity. It also makes development faster since developers know exactly which styles to apply.
