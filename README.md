@@ -74,6 +74,19 @@ A user-friendly design ensures that users can easily navigate the booking system
 | Product Owner | Defines project requirements, prioritizes features, and ensures product aligns with user needs |
 | Scrum Master | Facilitates Agile ceremonies, removes blockers, and ensures the team follows Agile principles |
 
+------
+
+## UI Component Patterns
+
+### Planned Components
+- **Navbar:** Top navigation bar with logo, links, and user profile menu
+- **Property Card:** Displays individual property with image, price, and basic details
+- **Footer:** Bottom section with links, contact info, and social media
+- **Search Bar:** Allows users to search for properties
+- **Booking Button:** Clear call-to-action for booking a property
+
+These components will be reused across different pages to ensure consistency and maintainable design.
+
 
 #### Importance of Identifying Design Properties
 Identifying color styles and typography in a mockup helps maintain consistency in the design, improves user experience, and ensures that the website reflects the intended brand identity. It also makes development faster since developers know exactly which styles to apply.
